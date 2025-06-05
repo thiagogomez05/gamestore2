@@ -48,7 +48,7 @@ nav ul {
 }
 
 nav ul li a:hover {
-    color: #FF5733; /* Cambia el color al pasar el mouse por encima */
+    color: #020aed; /* Cambia el color al pasar el mouse por encima */
 }
 
 
@@ -87,7 +87,7 @@ main {
     justify-content: space-between;
     margin: 50px auto;
     max-width: 1200px;
-    padding: 0 20px;
+    padding: 20px;
 }
 
 /* Estilo de cada artículo */
